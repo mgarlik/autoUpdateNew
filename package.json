@@ -1,0 +1,22 @@
+{
+  "name": "installer",
+  "version": "0.1.0",
+  "description": "Insalacni balicek pro windows",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "pack": "build --dir"
+  },
+  "build": {
+    "appId": "com.installer.ytapp",
+    "productName": "testInstaller"
+  },
+  "author": "Michal Garlik",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^1.4.1"
+  },
+  "dependencies": {
+    "electron-updater": "^3.1.6"
+  }
+}
