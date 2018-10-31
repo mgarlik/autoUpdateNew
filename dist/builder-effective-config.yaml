@@ -1,0 +1,6 @@
+directories:
+  output: dist
+  buildResources: build
+appId: com.installer.ytapp
+productName: testInstaller
+electronVersion: 3.0.6

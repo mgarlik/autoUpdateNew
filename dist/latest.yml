@@ -1,0 +1,8 @@
+version: 0.1.0
+files:
+  - url: installer-setup-0.1.0.exe
+    sha512: LUgRWai8Ki74sYrNGZ3KZZ+v/PVgRGXeFdbe5j1vm+ACLIGEmVLIDT8qlIAgV0SJfeZIRVrmaaqMzE/2fR6n2A==
+    size: 38473420
+path: installer-setup-0.1.0.exe
+sha512: LUgRWai8Ki74sYrNGZ3KZZ+v/PVgRGXeFdbe5j1vm+ACLIGEmVLIDT8qlIAgV0SJfeZIRVrmaaqMzE/2fR6n2A==
+releaseDate: '2018-10-30T10:36:25.635Z'
